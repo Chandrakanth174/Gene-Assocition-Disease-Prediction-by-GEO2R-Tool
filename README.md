@@ -7,9 +7,12 @@ DESeq2 is widely used in RNA-seq data analysis to identify differentlly expresse
 
 To run the script, you need to have the following R packages installed:
     DESeq2
+    GEOquery
     
 Make sure you have these packages installed before running the script.
 
 # References
 
-[DESeq2 Bioconductor package](https://bioconductor.org/packages/release/bioc/html/DESeq2.html):Official documentation and resources for DESeq2.
+[DESeq2 Bioconductor package](https://bioconductor.org/packages/release/bioc/html/DESeq2.html) : Official documentation and resources for DESeq2.
+[GEOquery Bioconductor package](https://bioconductor.org/packages/release/bioc/html/GEOquery.html): Official documentation and resources for GEOquery.
+
